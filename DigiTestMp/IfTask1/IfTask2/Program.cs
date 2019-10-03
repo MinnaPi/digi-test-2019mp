@@ -15,7 +15,6 @@ namespace IfTask2
             if (userNumber % 2 == 0)
             {
                 Console.WriteLine($"Luku {userNumber} on parillinen!");
-
             }
             else
             {
